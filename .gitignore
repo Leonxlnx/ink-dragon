@@ -1,0 +1,21 @@
+# generated / heavy data (frames, volumes, caches, renders)
+frames/
+frames_fill/
+frames_fill_sharp/
+work/
+out/
+logs/
+qa/
+__pycache__/
+*.pyc
+
+# downloaded music + SFX are not redistributed here; sources and licenses are listed in audio/CREDITS.md
+audio/music/
+audio/sfx/
+
+# local scratch scripts
+scripts/bench*.py
+scripts/mk_test_vdb.py
+scripts/prev_dragon.py
+scripts/probe.py
+scripts/vdbtest.py
